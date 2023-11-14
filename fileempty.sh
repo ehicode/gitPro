@@ -20,3 +20,4 @@ if [ -s "$filename" ]
 fi
 echo
 echo " I wish you a great stay at "$loc" "
+cat friends.txt
